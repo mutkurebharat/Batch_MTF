@@ -1,0 +1,17 @@
+style 3 types.
+
+1. Inline
+2. Internal
+3. External
+
+Inline
+
+style
+
+propertyName: value;
+
+Selectors
+
+1. Id
+2. Class
+3. Tag Name
