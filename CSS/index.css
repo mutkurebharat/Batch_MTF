@@ -1,0 +1,48 @@
+.a{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    display: inline-block;
+}
+
+.b{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    display: inline-block;
+}
+
+.c{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: inline-block;
+}
+
+.d{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    display: inline-block;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    display: inline;
+}
+
+.outer{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+}
+
+.inner{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}

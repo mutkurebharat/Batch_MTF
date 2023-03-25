@@ -1,0 +1,13 @@
+Three Display Types.
+1.Inline
+2. Block
+3. Inline-block
+
+
+margin: top,right,bottom,left
+
+margin: top, right-left, bottom
+
+margin: top-bottom, right-left
+
+margin: top-right-bottom-left
